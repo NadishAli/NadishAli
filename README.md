@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nadish Ali</h1>
 <h3 align="center">A passionate Programmer from Pakistan.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadishali5" alt="nadishali5" /></a> </p>
-
 - 🔭 I’m currently working on **Python,PYQT5**
 
 - 🌱 I’m currently learning **AI Automation**
